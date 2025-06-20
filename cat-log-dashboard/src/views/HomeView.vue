@@ -1,10 +1,11 @@
 <script setup>
-import { Button } from '@/components/ui/button'
+import MainNav from '@/components/MainNav.vue'
 </script>
 
 <template>
   <main>
-    <h1 class="text-4xl font-bold ">Home View</h1>
-    <Button>Click here</Button>
+    <header>
+      <MainNav />
+    </header>
   </main>
 </template>
