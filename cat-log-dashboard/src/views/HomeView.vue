@@ -1,11 +1,9 @@
 <script setup>
-import MainNav from '@/components/MainNav.vue'
+
 </script>
 
 <template>
-  <main>
-    <header>
-      <MainNav />
-    </header>
-  </main>
+  <div>
+    <h1>Home</h1>
+  </div>
 </template>

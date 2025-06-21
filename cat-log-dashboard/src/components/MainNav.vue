@@ -11,7 +11,7 @@ const mode = useColorMode()
 
 <template>
   <nav class="flex justify-between items-center p-4">
-    <h1 class="text-2xl font-bold text-violet-500">CatPanel </h1>
+    <h1 class="text-2xl font-bold text-violet-600">Cat Panel </h1>
     <div class="flex items-center gap-4">
       <!-- <Button variant="outline" class="bg-blue-500 text-white cursor-pointer">Login</Button> -->
 
